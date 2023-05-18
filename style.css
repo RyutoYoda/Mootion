@@ -1,0 +1,55 @@
+/* style.css */
+
+body {
+  background-image: url('usi.jpg');
+  font-family: 'Comic Sans MS', cursive;
+  background-repeat: repeat-y;
+  background-size: cover; 
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  
+}
+
+h2 {
+  text-align: center;
+  margin-left: 0px; /* 任意の値を指定 */
+  margin-right: 100px;
+  margin-bottom: 5px; /* 任意の値を指定 */
+  font-size: 18px;
+  font-family: 'Comic Sans MS', cursive;
+  
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.subject-row {
+  margin-bottom: 20px;
+}
+
+input[type="number"] {
+  width: 60px;
+  font-family: 'Comic Sans MS', cursive;
+}
+
+input[type="submit"] {
+  display: block;
+  margin: 20px auto;
+}
+
+.chart-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.chart-container {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+}
